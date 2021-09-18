@@ -22,6 +22,6 @@
 </p>
 
 ## 📈 GitHub Stats
-<a href="https://github.com/AlmogMenashe/Almog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmogMenashe&theme=radical" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmogMenashe&layout=compact)](https://github.com/AlmogMenashe/github-readme-stats)
+
