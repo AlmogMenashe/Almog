@@ -1,7 +1,8 @@
 # Almog Menashe
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hi there 👋
+<div align='center'>
+  
 <p> My name is Almog , a CS student at HIT! </p>
 
 <a href="https://www.linkedin.com/in/almog-menashe-7787561a9//"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  LinkedIn - Almog Menashe</a>
