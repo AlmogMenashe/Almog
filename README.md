@@ -7,12 +7,15 @@
 
 <a href="https://www.linkedin.com/in/almog-menashe-7787561a9//"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  LinkedIn - Almog Menashe</a>
 
-## 🔧 Technologies & Tools 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
+
+![](https://img.shields.io/badge/FrameWork-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FrameWork-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FrameWork-Express.js-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FrameWork-Mongoose-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
