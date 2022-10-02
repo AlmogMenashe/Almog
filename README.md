@@ -3,7 +3,7 @@
 ### Hi there 👋
 <div align='center'>
   
-<p> My name is Almog , a CS student at HIT! </p>
+<p> My name is Almog , a CS </p>
 
 <a href="https://www.linkedin.com/in/almog-menashe/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  LinkedIn - Almog Menashe</a>
 
